@@ -1,0 +1,132 @@
+{
+    "nav": {
+        "home": "Home",
+        "service": "Service",
+        "about": "About",
+        "contact": "Contact",
+        "formation": "Formations"
+    },
+
+    "footer": {
+        "title" : "Ecole des Métiers D'Aviation civile",
+        "horaire_travail": "Work timetable",
+        "lundi": "Monday",
+        "vendredi": "Friday",
+        "samedi": "Saturday",
+        "location": "Location",
+        "adresse" : "Address",
+        "contact" : "Contact",
+        "tel" : "Phone",
+        "commerce-général-relationnel" : "General Relational Commerce",
+        "copyright" : "Copyright"
+    },
+
+    "partner": {
+        "title": "Our Clients",
+        "trust": "They decided to trust us and affiliate with us."
+    },
+
+    "about": {
+        "title": "About",
+        "who_are_you" : "Who are you?",
+        "desc_line1": "The purpose of the Afrizon Company is, directly or indirectly in Cameroon and abroad:",
+        "desc_line2" : "- Relationship marketing;",
+        "desc_line3" : "- Intermediation and putting in contact between consumers-clients and professionals;",
+        "desc_line4":"- Entrepreneurial support and monitoring",
+        "desc_line5" : "- And more generally, all commercial, financial, industrial, technical, movable or real estate transactions directly or indirectly related to the above object or to any other similar or related objects.",
+        "power01_title": "Great Community",
+        "power01_desc": "Through our team of modern marketing experts and over time, we have developed and consolidated our customer network and have become the largest relational sales network in Africa.",
+        "power02_title": "Less work",
+        "power02_desc": "Afrizon takes care of the biggest work, that of selling your products through its network and therefore no longer need to worry about this task, just ensuring the availability of stock.",
+        "power03_title": "A chance for SME",
+        "power03_desc": "At Afrizon, whether you are a Multinational or just a simple trader, you benefit from our network, which gives you the chance to increase your turnover",
+        "temoignages": "Testimonials",
+        "temoignagnes_intro": "They appreciate our services."
+    },
+
+    "service": {
+        "title": "Our Services",
+        "what_we_do": "What we do",
+        "service01": "Relationship Marketing",
+        "service01_desc":"Identification of prospects / customers interested in a product, Implementation in order to understand these preferences in order to be able to convert them and retain them.",
+        "service02": "General commerce",
+        "service02_desc": "Conglomerate of traders and service providers.",
+        "service03": "Entrepreneurial follow-up",
+        "service03_desc": "Order management, Sales follow-up, Communication, Marketing",
+        "promotion": "Take advantage of our extensive sales network",
+        "promotion_explain": "Increase your profits by members of the AFRIZON network.",
+        "contact_us" : "CONTACT  US"
+    },
+
+    "contact": {
+        "title" : "Contact",
+        "w_to_f_u" : "Where to find us",
+        "contact_us": "Contact us",
+        "desc" : "Ideas, recommendations, observations, complaints, etc.? Please leave us a message with as much detail as possible."
+    },
+
+    "home" :{
+        "s01_t":"WELCOME TO AFRIZON",
+        "s01_d":"The most revolutionary relational general commerce of the 21st century.",
+        "s02_t":"AFRICAN SALES NETWORKS",
+        "s02_d":"Expand your sales network across Africa.",
+        "a_t":"About Afrizon",
+        "a_d":"Afrizon is an African general trade company based in Cameroon offering the possibility of putting in individual, nominative, continuous and personalized relationship between producers or professionals directly with consumers.",
+        "start":"Start the adventure with us",
+        "date": "Making appointments",
+        "skill":"Why choose us?",
+        "skill_d":"Our priority, the satisfaction of the merchant and the consumer.",
+        "p01_title": "Great Community",
+        "p01_desc": "Much larger buyer customer base than that found on another African platform",
+        "p02_title": "Less work",
+        "p02_desc": "When you partner with AFRIZON, your most important job becomes just ensuring Stock Availability.",
+        "p03_title": "A chance for SME",
+        "p03_desc": "Unlike other networks, at Afrizon, even small traders can join the networks."
+    },
+
+    "formation": {
+        "title": "Formations",
+        "ato": "Agent Technique D'exploitation",
+        "ato_desc": "Chargé de la préparation et de la planification des vols, du traitement des passagers et du fret, de l’assistance en escale, du planning des équipages… Le métier de l’Agent Technique d’Exploitation (ATE) est riche d’intérêt et possède de multiples facettes.",
+        "md": "Marchandise Dangereuse / IATA",
+        "md_desc": "Conçoit et met en œuvre dans l'entreprise des procédures et des règles de sécurité relatives à la manipulation et au transport de marchandises dangereuses.",
+        "ha" : "Hôtesse de l'air / Steward",
+        "ha_desc": "Hôtesse de l'air ou steward accueillent les passagers à bord de l'avion avant de s'assurer de la sécurité et du bon déroulement du vol. En cabine, ils servent les voyageurs, les informent et veillent à leur confort et à leur sécurité.",
+        "frêt": "Frêt",
+        "frêt_desc": "L'agent de fret aérien traite la marchandise pour le compte de clients ou d'une compagnie aérienne, au sein d'un aéroport. Il conseille le client qui souhaite faire voyager des marchandises, met en place une prestation de transport, s'occupe des formalités douanières et suit l'acheminement.",
+        "aie": "Agent Import / Export",
+        "aie_desc" : "Adminisatrer, et gérer la gestion logistique d'une commande afin de soutenir l'activité de l'entreprise.",
+        "cc": "Contrôle Chargement",
+        "cc_desc" : "Elaboration du plan de chargment, centrage, de l'aeronef et de messages de chargement",
+        "sc" : "Supervision de Chargment",
+        "sc_desc": "Supervision de la realisation du chargement physique, de l'exploitation du plan de chargment d'un aeronef",
+        "ata": "Agent trafic aerien",
+        "aga_desc": "Planifie le chargement et le déchargement en fonction des spécificités masses et centrages du vol. Il établit les documents pour le commandant de bord et le dossier de vol. Il s’occupe également de superviser les différents intervenants de la plateforme, l’embarquement et le débarquement des passagers, l’avitaillement du carburant, le catering, et l’ensemble des services indispensables au départ de l’avion",
+        "pv"  : "Passage vente",
+        "pv_desc" : "",
+        "ae" : "Agent D'escale",
+        "ae_desc": "L'agent d'escale aéroportuaire fait partie des services commerciaux d'une compagnie aérienne. Il travaille aux guichets d'accueil des passagers d'un aéroport, où il prend en charge les clients en partance (embarquement), à leur arrivée (débarquement) ou en correspondance (transit).",
+        "apa": "Agent Piste d'aéroport",
+        "apa_desc":"L'agent / l'agente de piste d'aéroport assure l'ensemble des opérations de pistes. Dès qu'un avion se pose, il /elle passe à l'action et le guide dans ses manœuvres au sol. Il/elle le parque, pose les cales, effectue le chargement et le déchargement des bagages.",
+        "ma": "Magasinier-cariste aeronautique",
+        "ma_desc": "Le magasinier-cariste aéronautique assure un support dans les métiers : réceptionner, distribuer, expédier et faire le lien avec son support logistique.",
+        "mta": "Manutentionnaire Aéronautique",
+        "mta_desc": "Le manutentionnaire d'aéronautique est chargé de l'utilisation du matériel de protection et de fixation des aéronefs, et veille à la sécurité du personnel et du matériel en zone de circulation des aéronefs",
+        "aea" : "Agent D'entretien Avion",
+        "aea_desc": "Entre deux vols, il doit effectuer un nettoyage complet de l'intérieur de l’avion et un nettoyage rapide lors d’une escale. Il vérifie que rien ne manque (produits d’entretien…) et réapprovisionne si nécessaire.",
+        "pd": "Pilotage Drone",
+        "pd_desc": "Dans le civil, les pilotes de drone peuvent exercer dans de nombreux domaines d'activité : BTP, urbanisme, agriculture, environnement, ingénierie, photographie, audiovisuel, la surveillance…"
+
+    
+    }
+
+
+
+    
+
+
+
+
+
+    
+}
