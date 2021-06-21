@@ -63,9 +63,7 @@
     "home" :{
         "s01_t":"FORMATIONS AUX MÉTIERS DE L'AVIATION CIVILE ",
         "s01_d":"Réalise ton rêve",
-        "s02_t":"RESEAUX DE VENTE AFRICAIN",
-        "s02_d":"Elargissez votre réseau de vente à travers l'afrique.",
-        "a_t":"A propos de nous ",
+        "a_t":"A propos de nous",
         "a_d":"IRDSM AVIATION est un centre de formation privé dans le but d'offrir des formations dans certains metiers de l'aviation civile. Ces formations sont accrodées par la CCAA et aussi par IATA",
         "start":"Débutez l'aventure avec nous",
         "date": "Prise de rendez-vous",
@@ -82,6 +80,7 @@
 
     "formation": {
         "title": "Formations",
+        "duree": "Durée Formation",
         "ato": "Agent Technique D'exploitation",
         "ato_desc": "Chargé de la préparation et de la planification des vols, du traitement des passagers et du fret, de l’assistance en escale, du planning des équipages… Le métier de l’Agent Technique d’Exploitation (ATE) est riche d’intérêt et possède de multiples facettes.",
         "md": "Marchandise Dangereuse",
