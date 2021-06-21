@@ -8,7 +8,7 @@
     },
 
     "footer": {
-        "title" : "Ecole des Métiers D'Aviation civile",
+        "title" : "Civil Aviation Training",
         "horaire_travail": "Work timetable",
         "lundi": "Monday",
         "vendredi": "Friday",
@@ -17,6 +17,7 @@
         "adresse" : "Address",
         "contact" : "Contact",
         "tel" : "Phone",
+        "mail" : "Mail",
         "commerce-général-relationnel" : "General Relational Commerce",
         "copyright" : "Copyright"
     },
